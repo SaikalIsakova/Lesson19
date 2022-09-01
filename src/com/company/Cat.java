@@ -4,7 +4,7 @@ public class Cat extends Tiger{
     private String nickName;
 
     @Override
-    public String toString() {
+    public java.lang.String toString() {
         return " Name = " + super.getName()+
                 ",  Age = "+super.getAge()+
                 ", Tail = "+ super.isHasTail()+

@@ -20,7 +20,7 @@ public class Shark extends Animal implements Eat,Attack{
     }
 
     @Override
-    public String toString() {
+    public java.lang.String toString() {
         return super.toString();
 
     }

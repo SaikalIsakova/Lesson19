@@ -39,7 +39,7 @@ public abstract class Animal {
     }
 
     @Override
-    public String toString() {
+    public java.lang.String toString() {
         return
                 " Name = " + name + '\'' +
                 ", Age=" + age +

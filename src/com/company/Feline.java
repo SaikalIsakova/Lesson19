@@ -40,7 +40,7 @@ public class Feline extends Animal implements Eat {
     }
 
     @Override
-    public String toString() {
+    public java.lang.String toString() {
         return " Name = " + super.getName()+","+
                 "  Age = "+super.getAge()+","+
                 " Tail = "+ super.isHasTail()+","+

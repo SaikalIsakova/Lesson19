@@ -15,7 +15,7 @@ public class Tiger extends Feline{
     }
 
     @Override
-    public String toString() {
+    public java.lang.String toString() {
         return super.toString();
 
     }
